@@ -1,0 +1,55 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+  color: white;
+  background-color: black;
+}
+
+.Botones {
+  width: 150px;
+  margin-left: 85px;
+  margin-top: 75px;
+}
+
+.Next {
+  margin-right: 45px;
+  width: 75px;
+  height: 35px;
+  border-radius: 75px;
+  color: white;
+  background-color: black;
+  margin-top: 175px;
+}
+
+.Previus {
+  margin-right: 45px;
+  width: 75px;
+  height: 35px;
+  border-radius: 75px;
+  color: white;
+  background-color: black;
+  margin-top: -95px;
+  margin-left: 75px;
+}
+
+h2 {
+  font-family: "Ubuntu", sans-serif;
+  color: white;
+  margin-top: -125px;
+  margin-left: 135px;
+}
+
+.hola1 {
+  color: tomato;
+  margin-top: 93px;
+  margin-left: 85px;
+}
+
+panel1:hover {
+  transform: translateY(515px);
+}
+
+.hola2 {
+  color: tomato;
+  margin-top: 93px;
+  margin-left: 145px;
+}
